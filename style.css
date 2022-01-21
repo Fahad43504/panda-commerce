@@ -1,7 +1,17 @@
 .nav-width{
     width: 80%;
+  
+    margin: 0 100px;
 }
 
-body{
-    background-color: rgb(255, 145, 0);
+.primary-color{
+    background-color: #FEEAE9;
+}
+
+
+.container-width{
+    width: 80%;
+   
+    
+   
 }
